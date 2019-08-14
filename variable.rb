@@ -4,3 +4,5 @@
 greeting = "Hello World"
 
 #Here, we are assigning the variable 'greeting' to the string 'Hello World'
+
+greeting
